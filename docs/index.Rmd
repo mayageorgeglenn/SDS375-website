@@ -37,11 +37,13 @@ B.S. in Statistics & Data Science, Minor in Computer Science, Polymathic Scholar
 
 ## Interests 
 
-- health, wellness & longevity
-- holistic cooking and nutrition
-- water sports
-- reading memoirs
-- finding the best coffee shops
+<ul>
+  <li>Health, wellness & longevity</li>
+  <li>Holistic cooking and nutrition</li>
+  <li>Water sports</li>
+  <li>Reading memoirs</li>
+  <li>Finding the best coffee shops</li>
+</ul>
 
 
 
