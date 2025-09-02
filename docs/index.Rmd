@@ -1,30 +1,44 @@
 ---
-title: "SDS375-website"
-author: "Maya Glenn"
-date: "2025-08-28"
-output: html_document
+title: "Maya Glenn"
+image: "/Users/mayaglenn/SDS375-website/docs/linkedin_pic_8.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/maya-glenn-mgg1968/"
+  - label: Twitter/X
+    url: "https://x.com/mayagglenn"
+  - label: GitHub
+    url: "https://github.com/mayageorgeglenn"
+  - label: Email
+    url: "mailto:mayaglenn@utexas.edu"
+output:
+  postcards::trestles
 ---
+ 
+## About Me
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+I’m a rising senior at UT Austin with a passion for venture capital, technology investing, data science, and product. I have internship experience on the M&A deal team at the TMT holding company Stagwell (Summer 2025) and in data science and product at the e-commerce tech startup Arcade.ai (Summer 2024). Back on campus, I help run the VC club Texas Venture Group.
 
-## R Markdown
+## Education
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+**University of Texas at Austin** | Austin, TX
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+B.S. in Statistics & Data Science, Minor in Computer Science, Polymathic Scholars Honors Program | August 2022 - May 2026
 
-```{r cars}
-summary(cars)
-```
+## Experience
 
-## Including Plots
+**Stagwell** | M&A Summer Analyst | June 2025 - August 2025
 
-You can also embed plots, for example:
+**Arcade** | AI Product Intern | September 2024 - December 2024
+           | Data Science Intern | May 2024 - August 2024
+           
+**Oxcart Ventures** | Due Dilligence Extern | September 2024 - December 2024
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+**Throne** | Founder's Associate | March 2024 - May 2024
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Interests 
+
+Health, wellness & longevity, holistic cooking, water sports, playing the oboe, reading memoirs, finding the best espresso. 
+
+
+
+This website was built on `r Sys.time()`.
